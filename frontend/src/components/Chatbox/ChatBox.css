@@ -1,0 +1,70 @@
+/* filepath: /c:/Users/kalpe/Desktop/Tour-Tickets/src/components/ChatBox.css */
+.chat-box {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.chat-toggle {
+  background-color: #ff6f00ec;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.chat-content {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  margin-top: 10px;
+  width: 300px;
+}
+
+.chat-messages {
+  max-height: 200px;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+.chat-message {
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  padding: 5px 10px;
+}
+
+.chat-message.user {
+  background-color: rgb(255, 253, 253);
+}
+
+.chat-message.ai {
+  background-color: #ffffff;
+}
+
+.chat-input {
+  display: flex;
+  padding: 10px;
+  border-top: 1px solid #ccc;
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.chat-input button {
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  padding: 5px 10px;
+}
