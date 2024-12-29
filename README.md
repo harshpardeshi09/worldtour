@@ -33,10 +33,10 @@
 
 
 ## 👥 Team
-- **Project Admin** 
-- **Harsh Pardeshi**   [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/harshpardeshi09/)
+**Project Admin**
+## *Harsh Pardeshi*   [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/harshpardeshi09/)
 
-For any inquiries or feedback, please contact. Happy Contributing 🫡
+For any inquiries or feedback, please contact. Happy Coding 🫡
 ### Show some ❤️ by starring this awesome repository!
 
 <!--Line-->
