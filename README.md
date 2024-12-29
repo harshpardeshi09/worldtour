@@ -32,12 +32,15 @@
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white)
 
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## 👥 Team
 **Project Admin**
 ## *Harsh Pardeshi*   [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/harshpardeshi09/)
 
 For any inquiries or feedback, please contact. Happy Coding 🫡
-### Show some ❤️ by starring this awesome repository!
+### Show some ❤️ by giving star to this awesome repository!
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
