@@ -3,7 +3,7 @@
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🪶 **Key Features**
+## 🪶**Key Features**
 
 - 🎨 **Photo and Video Galleries :**  Visit our customers tour gallery from different lands of world.
 - 🔗 **Search and Filter Options :**  Allow users to search for tours by destination, activity, duration, price, and date.
